@@ -31,6 +31,8 @@ The layout has them wired in a weird way. I just wired them like I would a norma
 
 Don’t forget that because the heater tap on the PT isn’t center tapped, you must create an artificial CT using 2 100 ohm resistors to ground
 
+All of the information on my boards should be correct. For the most part, the preamp is a 1-1 copy of the layout posted in this folder. Because of this, you should be able to use the layout to make any adjustments to your circuit. Similarly, the PI is very similar, just with the afformentioned value changes. Feel free to contact for more information. 
+
 **womblePCB**
 This will have the latest version of the PCB. I will include both a .brd and a gerber file (for uploading to JLC). 
 **as of the writing of this,** I have 4 PCBs left (I made one and JLC sells in minimum quantities of 5). If you live in the US, I am happy to ship some of my leftover PCBs to you, as long as you pay for shipping. That way, you don’t have to wait for JLC to make them, for them to come over from china, etc., and so you don’t have to get 5. Please note that when I wrote this (after making the amp), I noticed some mistakes on my board and have corrected some of the labeling and one trace. If you want to get a board from me, I will give you instructions on what to do. Please shoot me an email at Evan@sharkbomb.net. 
